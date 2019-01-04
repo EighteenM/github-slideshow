@@ -2,6 +2,6 @@
 
 void main()
 {
-  ptintf("hello world");
+  ptintf("hello motherfuckers");
   printf("im the first c-code file");
 }
