@@ -1,0 +1,7 @@
+#include "stdio"
+
+void main()
+{
+  ptintf("hello world");
+  printf("im the first c-code file");
+}
